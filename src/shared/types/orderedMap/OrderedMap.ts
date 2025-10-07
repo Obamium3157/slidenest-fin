@@ -1,4 +1,4 @@
-import type { Collection } from "./Collection";
+import type { Collection } from "./Collection.ts";
 
 export interface OrderedMap<T> {
   collection: Collection<T>;
